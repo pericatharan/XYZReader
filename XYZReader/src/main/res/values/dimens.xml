@@ -1,0 +1,27 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <!-- FAB dimen -->
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <!-- CardView dimen -->
+    <dimen name="cardview_margin">4dp</dimen>
+    <dimen name="cardview_text_padding">16dp</dimen>
+    <dimen name="recyclerview_padding_top">116dp</dimen>
+    <dimen name="recyclerview_padding_bottom">28dp</dimen>
+    <dimen name="cardview_elevation">2dp</dimen>
+
+    <!-- AppBar dimen -->
+    <dimen name="appbar_elevation">4dp</dimen>
+    <dimen name="appbar_list_height">112dp</dimen>
+    <dimen name="appbar_detail_height">320dp</dimen>
+
+    <!-- ToolBar dimen -->
+    <dimen name="logo_margin">4dp</dimen>
+
+</resources>
